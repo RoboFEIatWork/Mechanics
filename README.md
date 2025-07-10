@@ -1,4 +1,4 @@
 # 🛠️ Mechanics – RoboFEI@AtWork
 This repository contains all documentation related to the mechanic assembly of RoboFEI@AtWork, including parts, STL files , and component descriptions.
 
-For detailed documentation and design decisions, please visit our 📘 Wiki page.
+For detailed documentation and design decisions, please visit our [📘Wiki page] (https://github.com/RoboFEIatWork/Mechanics/wiki).
